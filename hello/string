@@ -1,0 +1,13 @@
+titl='abc'
+print(titl.title())
+
+low ='ABAC'
+print(low.lower())
+
+upp ='ABAC'
+print(upp.upper())
+
+a= "my name"
+b="raza"
+fullname= (f"{a} {b}")
+print(fullname)
